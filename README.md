@@ -8,6 +8,8 @@ A brief description of what this project does and who it's for
 
  - [OAuth articles](https://fusionauth.io/articles/oauth/modern-guide-to-oauth)
 
+ - [OAuth Playground](https://www.oauth.com/playground/)
+
 ## Tech Stack
 
 **Client:** Angular
